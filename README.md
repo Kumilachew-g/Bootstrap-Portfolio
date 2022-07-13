@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Personal-Portfolio
+# Personal-Portfolio-Bootstrap
 
-This project is mainly about creating personal portfolio by HTML5 and CSS3.
+This project is mainly about creating personal portfolio using bootstrap by HTML5 and CSS3.
 
 ## Built With
 

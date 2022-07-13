@@ -5,7 +5,7 @@ body {
 }
 
 div .header-back {
-  background-image: url(/src/images/header-shapes.svg);
+  background-image: url(/images/headline-bg-pc.svg);
   background-size: cover;
   background-position: 80% 100%;
 }

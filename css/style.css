@@ -1,0 +1,14 @@
+body {
+  background-color: white;
+  min-height: 100%;
+  overflow-x: hidden;
+}
+
+div .header-back {
+  background-image: url(/src/images/header-shapes.svg);
+  background-size: cover;
+  background-position: 80% 100%;
+}
+div > section a {
+  text-decoration: none;
+}
